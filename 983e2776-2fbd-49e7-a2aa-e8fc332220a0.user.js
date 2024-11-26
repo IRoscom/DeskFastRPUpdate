@@ -6,6 +6,8 @@
 // @author       Roscom
 // @match        https://desk.fastrp.ru/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=fastrp.ru
+// @updateURL    https://github.com/IRoscom/DeskFastRPUpdate/raw/refs/heads/main/983e2776-2fbd-49e7-a2aa-e8fc332220a0.user.js
+// @downloadURL  https://github.com/IRoscom/DeskFastRPUpdate/raw/refs/heads/main/983e2776-2fbd-49e7-a2aa-e8fc332220a0.user.js
 // @grant        GM_addStyle
 // ==/UserScript==
 
