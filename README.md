@@ -13,6 +13,9 @@
   - В причине бана/разбана steamID стал кликабельным и перенаправляет на профиль пользователя.
 
 ![Banlist](./.github/banlist.png)
+
 ![Economy](./.github/economy.png)
+
 ![HoursLeaderboard](./.github/hoursLeaderboard.png)
+
 ![Staff](./.github/staff.png)
